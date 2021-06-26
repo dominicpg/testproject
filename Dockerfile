@@ -1,2 +1,2 @@
-FROM python:3.4-alpine
+FROM nginx:1.16
 RUN echo "Thanks Ragsagar"
