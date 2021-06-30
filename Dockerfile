@@ -1,2 +1,2 @@
 FROM nginx:1.16
-RUN echo "Simplae and powerful"
+RUN echo "Test"
